@@ -8,3 +8,5 @@ Group Summary:A dataset with fast food restaurants and their latitude and longit
 A second visualization will be a side by side comparison of density of fast food restaurants and number of patients with heart disease.
 
 Finally, an electronic survey will be sent to the class that will be used to generate a tree chart, or a sunburst chart to display the favorite fast food restaurants as well asfavorite items on the respective menus for the class.
+
+**Currently thinking of reducing data set to local area rather than the entire country, so that the app and project relate better together

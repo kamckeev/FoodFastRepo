@@ -1,8 +1,22 @@
-// Creating map object
-var myMap = L.map("map", {
-  center: [40.7128, -74.0059],
-  zoom: 11
-});
+var streetmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
+      attribution: "Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"http://mapbox.com\">Mapbox</a>",
+      maxZoom: 18,
+      id: "mapbox.streets",
+      accessToken: API_KEY
+    });
+    
+    var baseMaps = {
+      "Light Map": streetmap
+    };
+    
+ 
+    var myMap=L.map("map-id", {
+      center: [
+        37.09, -95.71
+      ],
+      zoom: 4,
+      layers:[streetmap]
+    })
 
 // Adding tile layer
 L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {

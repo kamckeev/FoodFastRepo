@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Citi Bike</title>
+  <title>Fast Food in NC</title>
 
   <!-- Leaflet CSS -->
   <!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css"> -->
@@ -13,6 +13,24 @@
 <body>
   <h1>Populatrity of Fast Food Restaurants in NC</h1>
   <!-- The div that holds our map -->
+  <!-- <div id="option">
+    <input name="updateButton" 
+           type="button" 
+           value="Update" 
+           onclick="USClick()" />
+</div>
+<div id="option">
+  <input name="updateButton" 
+         type="button" 
+         value="Update" 
+         onclick="NCClick()" />
+</div> -->
+<div class ='center'>
+  <button type="button" onclick="USClick()">US</button>
+  <button type="button" onclick="NCClick()">NC</button>
+</div>
+
+
 
 
   <!-- D3 -->
@@ -25,7 +43,9 @@
   <!-- <script type="text/javascript" src="js/config.js"></script> -->
   <!-- Our JavaScript -->
   <script src="js/anime.min.js"></script>
-  <script type="text/javascript" src="js/logic.js"></script>
+  <!-- <script type="text/javascript" src="js/logic.js"></script> -->
+  <script type="text/javascript" src="js/logic.1.js"></script>
+  
   <a class="center" href ="https://clearbit.com">Logos Provided by Clearbit</a>
 </body>
 

@@ -2,12 +2,12 @@ html,
 body {
   padding: 0;
   margin: 0;
+  
 }
 
-.bar {
-  fill: orange;
-}
-
-.bar:hover {
-  fill: green;
+.float{
+  float: center;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
 }

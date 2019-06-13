@@ -1,6 +1,6 @@
-var margin = {top: 20, right: 30, bottom: 30, left: 55},
-   width = 460 - margin.left - margin.right,
-   height = 400 - margin.top - margin.bottom;
+var margin = {top: 20, right: 20, bottom: 35, left: 30},
+   width = 900 - margin.left - margin.right,
+   height = 432 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -23,11 +23,11 @@ d3.csv("area_wide2_data.csv", function(data) {
    .range([ 0, width ]);
  svg.append("g")
    .attr("transform", "translate(0," + height + ")")
-   .call(d3.axisBottom(x).ticks(4));
+   .call(d3.axisBottom(x).ticks(2));
 
  // Add Y axis
  var y = d3.scaleLinear()
-   .domain([0, 3])
+   .domain([0, 1])
    .range([ height, 0 ]);
  svg.append("g")
    .call(d3.axisLeft(y));

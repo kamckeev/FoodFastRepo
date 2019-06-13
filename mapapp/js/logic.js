@@ -1,4 +1,5 @@
 var circles = [];
+
 // // Grab data with d3
 d3.json("ff_geodataset.json", function(data) {
     console.log(data)
@@ -17,6 +18,7 @@ d3.json("ff_geodataset.json", function(data) {
           );
       
       }}
+      
   circles1 = L.featureGroup(circles);
   var streetmap = L.tileLayer(
     //  "https://api.mapbox.com/styles/v1/saucyocelot/cjwnrc2ni2lvt1cnyney377u0?access_token={accessToken}", {
@@ -50,6 +52,10 @@ d3.json("ff_geodataset.json", function(data) {
   id: "mapbox.streets",
   accessToken: API_KEY
 }).addTo(myMap);
+
+
+
+
     // function colors(mag) {
     //  var mag = feature.properties.name
     //   if (mag = "McDonald's") {

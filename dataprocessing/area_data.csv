@@ -1,0 +1,618 @@
+city,state_id,county_name,name,latitude,longitude,stars,new_name,region
+Advance,NC,Davie,Bojangles' Famous Chicken 'n Biscuits,36.0044,-80.4397,,Bojangles,central
+Ahoskie,NC,Hertford,Burger King,36.276270000000004,-76.97745,,Burger King,coastal
+Ahoskie,NC,Hertford,Wendy's,36.272189000000004,-76.97079000000001,,Wendy's,coastal
+Albemarle,NC,Stanly,Subway,35.386854658000004,-80.19366070699999,,Subway,central
+Albemarle,NC,Stanly,Taco Bell,35.347539000000005,-80.166738,,Taco Bell,central
+Alexis,,,Burger King,40.457989000000005,-3.7008620000000003,,Burger King,central
+Apex,NC,Wake,Burger King,35.71660341,-78.841087323,,Burger King,central
+Apex,NC,Wake,McDonalds,35.74449,-78.82144,,McDonald's,central
+Arden,,,McDonald's,35.482440000000004,-82.55379,,McDonald's,central
+Asheboro,NC,Randolph,Bojangles' Famous Chicken 'n Biscuits,35.6873,-79.8224,,Bojangles,central
+Asheville,NC,Buncombe,Wendy's,35.5107,-82.5259,,Wendy's,mountain
+Asheville,NC,Buncombe,McDonald's,35.57136,-82.50495,,McDonald's,mountain
+Belmont,NC,Gaston,Bojangles' Famous Chicken 'n Biscuits,35.252274,-81.0432267,2.0,Bojangles,central
+Belmont,NC,Gaston,McDonald's,35.2517293242,-81.0431948304,2.0,McDonald's,central
+Belmont,NC,Gaston,Subway,35.255372,-81.035428,3.5,Subway,central
+Belmont,NC,Gaston,Taco Bell,35.2519014,-81.027912,2.5,Taco Bell,central
+Belmont,NC,Gaston,Pizza Hut,35.2546388,-81.0278042,2.0,Pizza Hut,central
+Belmont,NC,Gaston,Chick-fil-A,35.255755,-81.02746,4.0,Chick-fil-A,central
+Belmont,NC,Gaston,Wendy's,35.253329,-81.027326,2.0,Wendy's,central
+Benson,NC,Johnston,Taco Bell,35.517011943,-78.561829255,,Taco Bell,central
+Biscoe,NC,Montgomery,Bojangles' Famous Chicken 'n Biscuits,35.361,-79.7701,,Bojangles,central
+Boone,NC,Watauga,McDonald's,36.20624,-81.67109,,McDonald's,mountain
+Boone,NC,Watauga,Wendy's,36.2053,-81.6694,,Wendy's,mountain
+Boone,NC,Watauga,Bojangles' Famous Chicken 'n Biscuits,36.204747999999995,-81.668966,,Bojangles,mountain
+Boone,NC,Watauga,Taco Bell,36.204913,-81.66803,,Taco Bell,mountain
+Boone,NC,Watauga,Burger King,36.201496,-81.656779,,Burger King,mountain
+Bryson City,NC,Swain,Bojangles' Famous Chicken 'n Biscuits,35.425296,-83.446639,,Bojangles,mountain
+Burgaw,NC,Pender,McDonald's,34.560109999999995,-77.91841,,McDonald's,coastal
+Burgaw,NC,Pender,Bojangles' Famous Chicken 'n Biscuits,34.56021,-77.91729000000001,,Bojangles,coastal
+Burlington,NC,Alamance,Bojangles' Famous Chicken 'n Biscuits,36.071098,-79.49464300000001,,Bojangles,central
+Burlington,NC,Alamance,McDonalds,36.07399,-79.4908,,McDonald's,central
+Burlington,NC,Alamance,Bojangles' Famous Chicken 'n Biscuits,36.066331,-79.429866,,Bojangles,central
+Camp Lejeune,,,Wendy's,34.72418,-77.34444,,Wendy's,central
+Carolina Beach,NC,New Hanover,McDonald's,34.0313,-77.89517,,McDonald's,coastal
+Carthage,NC,Moore,Bojangles' Famous Chicken 'n Biscuits,35.342137,-79.399282,,Bojangles,central
+Cary,NC,Wake,McDonald's,35.7623,-78.783,,McDonald's,central
+Cary,NC,Wake,Taco Bell,35.769625,-78.7822,,Taco Bell,central
+Cary,NC,Wake,Mcdonald's,35.738997999999995,-78.78029599999999,,McDonald's,central
+Cary,NC,Wake,Burger King,35.8289,-78.7702,,Burger King,central
+Cary,NC,Wake,McDonald's,35.77675,-78.764186,,McDonald's,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.1007665,-80.9915319,2.0,Taco Bell,central
+Charlotte,NC,Mecklenburg,Subway,35.1032504,-80.9908197,2.5,Subway,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1035732549,-80.9854871035,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.103883,-80.984753,2.5,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Wendy's,35.1637880258,-80.9722954028,2.0,Wendy's,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1631138,-80.9700542,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.1618979,-80.9697088,1.5,Bojangles,central
+Charlotte,NC,Mecklenburg,McDonald's,35.16361,-80.96889,,McDonald's,central
+Charlotte,NC,Mecklenburg,Wendy's,35.220249176,-80.9473342896,3.0,Wendy's,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.3235541,-80.9467086,3.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.3232661,-80.9462201,1.5,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Wendy's,35.3239736,-80.9460663,2.0,Wendy's,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.2183178454,-80.9454292831,3.5,Bojangles,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.326869,-80.944742,4.0,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,McDonald's,35.3272296123,-80.944431792,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Chick-Fil-A,35.2203621691,-80.9438864067,2.5,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Burger King,35.2204704924,-80.9437250177,2.0,Burger King,central
+Charlotte,NC,Mecklenburg,Burger King,35.2242345,-80.9403374,1.0,Burger King,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.13524,-80.9387,2.0,Taco Bell,central
+Charlotte,NC,Mecklenburg,Burger King,35.1370182,-80.9368008,2.0,Burger King,central
+Charlotte,NC,Mecklenburg,Subway,35.3033595,-80.9366064,2.5,Subway,central
+Charlotte,NC,Mecklenburg,Subway,35.1399558,-80.9345809,2.0,Subway,central
+Charlotte,NC,Mecklenburg,Subway,35.1464869,-80.9340794,1.0,Subway,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1439366,-80.9299109,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.144187,-80.929394,2.5,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Subway,35.1902505,-80.9285933,3.5,Subway,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.2289821,-80.92585,3.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.1476376,-80.9253258,3.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.147999,-80.924835,1.5,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.22844,-80.92388,3.0,Taco Bell,central
+Charlotte,NC,Mecklenburg,McDonald's,35.2288654,-80.9237331,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Wendy's,35.2298698,-80.923698,2.0,Wendy's,central
+Charlotte,NC,Mecklenburg,Wendy's,35.2298838,-80.9236899,2.5,Wendy's,central
+Charlotte,NC,Mecklenburg,Subway,35.1133461,-80.9201257,2.0,Subway,central
+Charlotte,NC,Mecklenburg,Wendy's,35.136574,-80.9066664,2.0,Wendy's,central
+Charlotte,NC,Mecklenburg,Burger King,35.2240066,-80.8976778,2.0,Burger King,central
+Charlotte,NC,Mecklenburg,Burger King,35.1495112,-80.8967055,1.5,Burger King,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.2240762,-80.8946525,3.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Wendy's,35.2461011,-80.8932264,1.0,Wendy's,central
+Charlotte,NC,Mecklenburg,Subway,35.2452207,-80.8922756,2.0,Subway,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.2440913,-80.8919731,1.5,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.242165,-80.888954,2.0,Taco Bell,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1634123238,-80.8875965327,2.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.2404121,-80.8870329,1.5,Bojangles,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1844983153,-80.8867834671,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Wendy's,35.184795,-80.8864407,1.5,Wendy's,central
+Charlotte,NC,Mecklenburg,Subway,35.163772,-80.8846069,2.5,Subway,central
+Charlotte,NC,Mecklenburg,McDonald's,35.238288,-80.88452,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Wendy's,35.1100489,-80.882746,1.5,Wendy's,central
+Charlotte,NC,Mecklenburg,Subway,35.2656632,-80.8820968,3.5,Subway,central
+Charlotte,NC,Mecklenburg,Burger King,35.2663472,-80.8812971,1.0,Burger King,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.1785651,-80.8806487,2.5,Bojangles,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1072758,-80.8803698,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.104851,-80.879773,3.0,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,McDonalds,35.138125,-80.8774324,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.161153,-80.876261,2.0,Taco Bell,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.138604,-80.876095,1.5,Bojangles,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1381379438,-80.8759577572,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Subway,35.1515555258,-80.8754086537,2.5,Subway,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.1897454,-80.8749903,1.5,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Wendy's,35.0906289415,-80.8695297661,2.0,Wendy's,central
+Charlotte,NC,Mecklenburg,McDonald's,35.0894559261,-80.8687236033,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.0892447,-80.8683306,1.5,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.198116,-80.868032,3.0,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Burger King,35.198409,-80.8676799,2.5,Burger King,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.0890219,-80.8676405,1.5,Bojangles,central
+Charlotte,NC,Mecklenburg,Subway,35.3568817,-80.8676151,2.5,Subway,central
+Charlotte,NC,Mecklenburg,McDonald's,35.2015371095,-80.8655253053,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.204348,-80.863485,2.5,Taco Bell,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.2144645,-80.8621046,2.5,Bojangles,central
+Charlotte,NC,Mecklenburg,McDonald's,35.3469494,-80.861239,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Subway,35.0891974,-80.8605246,4.0,Subway,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.2365632457,-80.859019272,2.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Burger King,35.0933956,-80.8584428,3.0,Burger King,central
+Charlotte,NC,Mecklenburg,Wendy's,35.3500065386,-80.8578350767,1.5,Wendy's,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1157553887,-80.856975764,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1157,-80.85691,,McDonald's,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.349709,-80.856455,3.5,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.3055448,-80.8549469,2.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Burger King,35.2694376,-80.854428,1.0,Burger King,central
+Charlotte,NC,Mecklenburg,McDonald's,35.2691999159,-80.8535351604,1.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Subway,35.0553914,-80.8516606,2.0,Subway,central
+Charlotte,NC,Mecklenburg,Wendy's,35.0295307,-80.8509383,2.0,Wendy's,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.352234,-80.850743,4.0,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Wendy's,35.172935,-80.8507309,2.0,Wendy's,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1724653719,-80.8504847391,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.171698,-80.849907,4.0,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.2338693149,-80.8497967378,1.5,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Subway,35.2331042877,-80.8496199619,2.5,Subway,central
+Charlotte,NC,Mecklenburg,McDonald's,35.0872226743,-80.8496046308,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Subway,35.0233033,-80.848678,1.5,Subway,central
+Charlotte,NC,Mecklenburg,Subway,35.1733176,-80.847734,2.5,Subway,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.0530905,-80.8471633,1.5,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.2221416,-80.8460048,3.5,Bojangles,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.171225,-80.845962,2.0,Taco Bell,central
+Charlotte,NC,Mecklenburg,Subway,35.2254586,-80.8452769,2.5,Subway,central
+Charlotte,NC,Mecklenburg,Subway,35.202849,-80.844947,3.5,Subway,central
+Charlotte,NC,Mecklenburg,McDonald's,35.308569941,-80.8440944552,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.2265794,-80.8432784,4.0,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,McDonald's,35.2254139,-80.8432104,3.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Subway,35.2277864,-80.8428303,3.0,Subway,central
+Charlotte,NC,Mecklenburg,McDonald's,35.2264848,-80.8427064,4.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Bojangles',35.2284099,-80.8426239,3.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.3078610397,-80.8424159999,2.0,Taco Bell,central
+Charlotte,NC,Mecklenburg,Subway,35.2286829,-80.8416712,2.0,Subway,central
+Charlotte,NC,Mecklenburg,Subway,35.3508308,-80.8416712,1.5,Subway,central
+Charlotte,NC,Mecklenburg,Wendy's,35.3079935,-80.8414285,1.5,Wendy's,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.224533,-80.841029,3.5,Bojangles,central
+Charlotte,NC,Mecklenburg,Subway,35.306554,-80.8408062,2.0,Subway,central
+Charlotte,NC,Mecklenburg,Burger King,35.2246882,-80.8406333,2.0,Burger King,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.203872,-80.838296,4.0,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.275521,-80.8360774,1.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Wendy's,35.2141379,-80.8353793,1.5,Wendy's,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.2070881,-80.8351947,1.5,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Ronald Mcdonald House of Charlotte,35.2036290715,-80.8338189125,5.0,NA,central
+Charlotte,NC,Mecklenburg,Subway,35.2121416,-80.8337319,3.5,Subway,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1486809846,-80.8330007596,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.152911,-80.832917,2.0,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Burger King,35.148994656,-80.8300101757,2.5,Burger King,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.2134609,-80.8299721,3.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.1541492,-80.828582,2.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Burger King,35.213617,-80.8279899,2.0,Burger King,central
+Charlotte,NC,Mecklenburg,Wendy's,35.0615538,-80.8156107,2.0,Wendy's,central
+Charlotte,NC,Mecklenburg,Subway,35.053486,-80.815603,3.0,Subway,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.05974689,-80.813444,4.0,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.333598,-80.813201,2.5,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.33297,-80.810766,2.5,Taco Bell,central
+Charlotte,NC,Mecklenburg,Subway,35.2206335486,-80.8102176344,2.0,Subway,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.146999,-80.80925,1.5,Pizza Hut,central
+Charlotte,NC,Mecklenburg,McDonald's,35.0372172,-80.80552,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.033022,-80.80485,3.0,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,McDonald's,35.2200516768,-80.8025738597,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.2045211,-80.8024584,3.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Burger King,35.254958,-80.802188,,Burger King,central
+Charlotte,NC,Mecklenburg,Burger King,35.2549951,-80.8021771,1.5,Burger King,central
+Charlotte,NC,Mecklenburg,Subway,35.30184,-80.8017221,2.0,Subway,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.17716,-80.799035,3.5,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.1768071,-80.7986074,2.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Wendy's,35.176381,-80.797592,2.5,Wendy's,central
+Charlotte,NC,Mecklenburg,McDonald's,35.3337166642,-80.7975634933,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1928848315,-80.7956968329,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Bojangles' Coliseum,35.205058,-80.7951951,3.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.3337455,-80.7951457,1.0,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Subway,35.3348305,-80.7946048,2.0,Subway,central
+Charlotte,NC,Mecklenburg,McDonald's,35.2769791069,-80.7940015197,1.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.275585,-80.793882,2.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Wendys,35.3337597,-80.7937128,2.0,Wendy's,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.274029,-80.793539,2.5,Taco Bell,central
+Charlotte,NC,Mecklenburg,Wendy's,35.2757164,-80.7931498,2.0,Wendy's,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.25846,-80.78938,1.0,Taco Bell,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.3648706,-80.7867722,1.5,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.37095,-80.784234,1.5,Bojangles,central
+Charlotte,NC,Mecklenburg,Subway,35.3727676956,-80.7840652764,2.0,Subway,central
+Charlotte,NC,Mecklenburg,McDonald's,35.097899,-80.783424,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Chick-fil-a,35.31364746,-80.78340468,,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.2142,-80.782256,1.0,Pizza Hut,central
+Charlotte,NC,Mecklenburg,McDonald's,35.0976152,-80.7817087,1.0,McDonald's,central
+Charlotte,NC,Mecklenburg,McDonald's,35.2132805487,-80.7816660404,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.098863,-80.781315,3.5,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Subway,35.2103287,-80.7812013,3.5,Subway,central
+Charlotte,NC,Mecklenburg,Wendy's,35.2159398,-80.7803021,1.5,Wendy's,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.2502942,-80.7799126,2.5,Bojangles,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.098696,-80.77854,2.5,Taco Bell,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.0953817,-80.7780359,2.0,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Subway,35.0618989,-80.771467,3.0,Subway,central
+Charlotte,NC,Mecklenburg,Wendy's,35.0513207,-80.7705561,1.5,Wendy's,central
+Charlotte,NC,Mecklenburg,Wendy's,35.0514114,-80.7701524,2.0,Wendy's,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.3414126,-80.769465,2.5,Bojangles,central
+Charlotte,NC,Mecklenburg,Subway,35.3432482,-80.7690779,2.5,Subway,central
+Charlotte,NC,Mecklenburg,McDonald's,35.0518585,-80.7687911,3.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.0524851367,-80.7687394094,4.0,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.278121,-80.766662,1.0,Pizza Hut,central
+Charlotte,NC,Mecklenburg,McDonald Group- Wilkinson and Associates ERA,35.061445,-80.766085,5.0,NA,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1832871,-80.7593386,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.207085,-80.758012,2.0,Taco Bell,central
+Charlotte,NC,Mecklenburg,McDonald's,35.183472,-80.756938,2.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Burger King,35.209337,-80.7568843,2.0,Burger King,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.184415,-80.7563629,3.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Subway,35.294772,-80.755847,2.5,Subway,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.29543,-80.75521,1.5,Taco Bell,central
+Charlotte,NC,Mecklenburg,Wendy's,35.1796815,-80.7536019,2.0,Wendy's,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.3103321867,-80.7535075848,3.0,Taco Bell,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.31032,-80.752236,3.5,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Burger King,35.303471,-80.7520571,3.0,Burger King,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.2465644,-80.7520571,1.0,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.3045295,-80.7511695,3.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.1772696,-80.7508267,2.5,Bojangles,central
+Charlotte,NC,Mecklenburg,McDonald's,35.3085578683,-80.7482901297,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,McDonald's,35.2946040657,-80.7480016351,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.2944085,-80.7447832,1.5,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.2026783,-80.74028,1.5,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Pizza Hut,35.1408488,-80.7402718,2.5,Pizza Hut,central
+Charlotte,NC,Mecklenburg,Subway,35.296079,-80.738818,3.5,Subway,central
+Charlotte,NC,Mecklenburg,Wendy's,35.235859,-80.7386995,2.0,Wendy's,central
+Charlotte,NC,Mecklenburg,Wendy's,35.23587,-80.73816,,Wendy's,central
+Charlotte,NC,Mecklenburg,McDonald's,35.1386008,-80.7380885,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,McDonald's,35.2033796,-80.7380499,1.5,McDonald's,central
+Charlotte,NC,Mecklenburg,Burger King,35.1400686858,-80.7369133042,1.5,Burger King,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.134659,-80.736323,2.5,Bojangles,central
+Charlotte,NC,Mecklenburg,Wendy's,35.1403487,-80.7362745,3.0,Wendy's,central
+Charlotte,NC,Mecklenburg,McDonald's,35.2362324891,-80.7357917472,2.0,McDonald's,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.20255,-80.73531,1.5,Taco Bell,central
+Charlotte,NC,Mecklenburg,Wendy's,35.2023732,-80.7343671,3.0,Wendy's,central
+Charlotte,NC,Mecklenburg,Subway,35.1375383,-80.7343475,2.0,Subway,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.1408015,-80.7339845,2.5,Taco Bell,central
+Charlotte,NC,Mecklenburg,Subway,35.224545,-80.7274185,2.5,Subway,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.2031629,-80.7254696,2.0,Bojangles,central
+Charlotte,NC,Mecklenburg,Burger King,35.2029998,-80.7225895,3.0,Burger King,central
+Charlotte,NC,Mecklenburg,Wendy's,35.3118386,-80.7130172,1.5,Wendy's,central
+Charlotte,NC,Mecklenburg,Taco Bell,35.21064,-80.69726,2.0,Taco Bell,central
+Charlotte,NC,Mecklenburg,Chick-fil-A,35.211124,-80.690954,4.0,Chick-fil-A,central
+Charlotte,NC,Mecklenburg,Subway,35.2122069,-80.6904682,2.0,Subway,central
+Charlotte,NC,Mecklenburg,Subway,35.283028,-80.668567,2.0,Subway,central
+Charlotte,NC,Mecklenburg,Bojangles Restaurant,35.2840228,-80.6675011,1.5,Bojangles,central
+Charlotte,NC,Mecklenburg,Wendy's,35.251244158,-80.65713644,,Wendy's,central
+Charlotte,NC,Mecklenburg,Wendy's,35.251223,-80.657064,1.5,Wendy's,central
+Charlotte,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.2239926,-80.631781,2.5,Bojangles,central
+Cherokee,NC,Swain,Wendy's,35.47075,-83.310643,,Wendy's,mountain
+Clayton,NC,Johnston,Wendy's,35.64077,-78.44969,,Wendy's,central
+Concord,NC,Cabarrus,Subway,35.419335,-80.743126,2.5,Subway,central
+Concord,NC,Cabarrus,McDonald's,35.373526584,-80.7326023465,1.5,McDonald's,central
+Concord,NC,Cabarrus,Burger King,35.3731896,-80.7249715,2.0,Burger King,central
+Concord,NC,Cabarrus,Burger King,35.3700689,-80.7239298,2.5,Burger King,central
+Concord,NC,Cabarrus,Chick-fil-A,35.37173,-80.717495,3.5,Chick-fil-A,central
+Concord,NC,Cabarrus,McDonald's,35.3668568917,-80.7122719288,2.0,McDonald's,central
+Concord,NC,Cabarrus,Subway,35.364907,-80.711399,1.0,Subway,central
+Concord,NC,Cabarrus,Taco Bell,35.369405,-80.7095,2.0,Taco Bell,central
+Concord,NC,Cabarrus,Wendy's,35.365052,-80.709187,1.5,Wendy's,central
+Concord,NC,Cabarrus,Bojangles' Famous Chicken 'n Biscuits,35.3653895,-80.7076031,1.5,Bojangles,central
+Concord,NC,Cabarrus,Chick-fil-A,35.419773,-80.675218,3.5,Chick-fil-A,central
+Concord,NC,Cabarrus,Bojangles' Famous Chicken 'n Biscuits,35.4140461,-80.6664857,2.5,Bojangles,central
+Concord,NC,Cabarrus,Taco Bell,35.368055,-80.666222,1.5,Taco Bell,central
+Concord,NC,Cabarrus,Subway,35.3692136,-80.6640323,2.5,Subway,central
+Concord,NC,Cabarrus,McDonald's,35.435347,-80.6533619016,3.0,McDonald's,central
+Concord,NC,Cabarrus,Taco Bell,35.39127,-80.62594,,Taco Bell,central
+Concord,NC,Cabarrus,Chick-fil-A,35.391148,-80.624909,3.5,Chick-fil-A,central
+Concord,NC,Cabarrus,Bojangles,35.3952363,-80.6165281,2.5,Bojangles,central
+Concord,NC,Cabarrus,Burger King,35.399362,-80.60906,2.5,Burger King,central
+Concord,NC,Cabarrus,Taco Bell,35.429263,-80.60871,1.5,Taco Bell,central
+Concord,NC,Cabarrus,Pizza Hut,35.3966113,-80.6083638,3.0,Pizza Hut,central
+Concord,NC,Cabarrus,McDonald's,35.3967509454,-80.6077703834,1.5,McDonald's,central
+Concord,NC,Cabarrus,McDonald's,35.4399383,-80.6075277,2.0,McDonald's,central
+Concord,NC,Cabarrus,Wendy's,35.4403426,-80.6068409,2.0,Wendy's,central
+Concord,NC,Cabarrus,Chick-fil-A,35.438307,-80.605827,4.0,Chick-fil-A,central
+Concord,NC,Cabarrus,Chick-fil-A,35.4378,-80.6051,,Chick-fil-A,central
+Concord,NC,Cabarrus,Subway,35.4401015,-80.6038977,2.5,Subway,central
+Concord,NC,Cabarrus,Chick-Fil-A,35.44092,-80.60341,,Chick-fil-A,central
+Concord,NC,Cabarrus,Chick-fil-A,35.440287,-80.603009,4.0,Chick-fil-A,central
+Concord,NC,Cabarrus,Pizza Hut,35.4285728,-80.5994505,2.5,Pizza Hut,central
+Concord,NC,Cabarrus,Subway,35.3871919,-80.5602967,1.5,Subway,central
+Concord,NC,Cabarrus,Pizza Hut,35.3703445928,-80.5502068687,3.5,Pizza Hut,central
+Concord,NC,Cabarrus,McDonald's,35.3713970643,-80.5493460837,1.5,McDonald's,central
+Concord,NC,Cabarrus,Bojangles' Famous Chicken 'n Biscuits,35.3708771,-80.5489789,3.0,Bojangles,central
+Conover,NC,Catawba,Subway,35.695115,-81.23785,,Subway,central
+Cornelius,NC,Mecklenburg,Pizza Hut,35.4800817,-80.8911735,1.5,Pizza Hut,central
+Cornelius,NC,Mecklenburg,Bojangles,35.4820954,-80.8796761,2.5,Bojangles,central
+Cornelius,NC,Mecklenburg,Taco Bell,35.483607,-80.877465,4.0,Taco Bell,central
+Cornelius,NC,Mecklenburg,Subway,35.4816437,-80.8767389,3.0,Subway,central
+Cornelius,NC,Mecklenburg,McDonald's,35.4837929517,-80.8765565604,1.5,McDonald's,central
+Cornelius,NC,Mecklenburg,Wendy's,35.4825597,-80.8764789,2.0,Wendy's,central
+Dallas,NC,Gaston,Bojangles' Famous Chicken 'n Biscuits,35.315017,-81.192074,,Bojangles,central
+Dallas,NC,Gaston,McDonald's,35.3164776,-81.1903282,1.0,McDonald's,central
+Dallas,NC,Gaston,Burger King,35.317115,-81.1894179,1.5,Burger King,central
+Davidson,NC,Mecklenburg,Subway,35.5034994,-80.8631998,3.0,Subway,central
+Davidson,NC,Mecklenburg,McDonald's,35.4422136,-80.7625269,1.5,McDonald's,central
+Denver,NC,Lincoln,Burger King,35.557615411,-81.06380981699999,,Burger King,central
+Denver,NC,Lincoln,Burger King,35.4495747532,-81.0036249795,3.0,Burger King,central
+Denver,NC,Lincoln,Subway,35.451794,-81.001342,3.0,Subway,central
+Denver,NC,Lincoln,Chick-fil-A,35.4486079377,-81.0003217194,2.5,Chick-fil-A,central
+Denver,NC,Lincoln,Bojangles,35.445538,-80.998302,2.0,Bojangles,central
+Denver,NC,Lincoln,McDonald's,35.4444555779,-80.997598013,2.0,McDonald's,central
+Denver,NC,Lincoln,Subway,35.4446312,-80.9967418,2.5,Subway,central
+Denver,NC,Lincoln,Pizza Hut,35.4433339,-80.9963048,1.5,Pizza Hut,central
+Denver,NC,Lincoln,Wendy's,35.4499044022,-80.9942506473,3.0,Wendy's,central
+Denver,NC,Lincoln,Taco Bell,35.453073,-80.992829,1.0,Taco Bell,central
+Dunn,NC,Harnett,Bojangles' Famous Chicken 'n Biscuits,35.302124,-78.60114,,Bojangles,central
+Durham,NC,Durham,Subway,35.952461,-78.98962900000001,,Subway,central
+Durham,NC,Durham,McDonald's,35.97017,-78.95841999999999,,McDonald's,central
+Durham,NC,Durham,Wendy's,35.9472,-78.9229,,Wendy's,central
+Durham,NC,Durham,McDonald's,35.99852,-78.8995,,McDonald's,central
+Durham,NC,Durham,McDonald's,36.0167,-78.8896,,McDonald's,central
+Durham,NC,Durham,Subway,36.02851,-78.84378000000001,,Subway,central
+Durham,NC,Durham,Wendy's,35.945105,-78.83801,,Wendy's,central
+Eden,NC,Rockingham,Bojangles' Famous Chicken 'n Biscuits,36.491139000000004,-79.740363,,Bojangles,central
+Eden,NC,Rockingham,Taco Bell,36.488783000000005,-79.739254,,Taco Bell,central
+Elizabeth City,NC,Pasquotank,Wendy's,36.29439,-76.241178,,Wendy's,coastal
+Elizabeth City,NC,Pasquotank,McDonald's,36.29481,-76.24015,,McDonald's,coastal
+Elizabethtown,NC,Bladen,McDonald's,34.62455,-78.60812,,McDonald's,coastal
+Fayetteville,NC,Cumberland,McDonald's,34.98144,-79.01292,,McDonald's,central
+Fayetteville,NC,Cumberland,McDonald's,35.07072,-78.96625,,McDonald's,central
+Fayetteville,NC,Cumberland,Burger King,35.074232,-78.926887,,Burger King,central
+Fayetteville,NC,Cumberland,McDonald's,34.9293,-78.85539,,McDonald's,central
+Flat Rock,NC,Henderson,Bojangles' Famous Chicken 'n Biscuits,35.29728,-82.40994,,Bojangles,mountain
+Forest City,NC,Rutherford,Taco Bell,35.33411801,-81.89239655,,Taco Bell,central
+Forest City,NC,Rutherford,McDonalds,35.33401,-81.865105,,McDonald's,central
+Fort Bragg,,,Burger King,35.131891054,-78.99660778,,Burger King,central
+Franklin,NC,Macon,Burger King,35.165659999999995,-83.40051,,Burger King,mountain
+Franklin,NC,Macon,Bojangles' Famous Chicken 'n Biscuits,35.162468,-83.392228,,Bojangles,mountain
+Franklin,NC,Macon,Wendy's,35.160043,-83.391085,,Wendy's,mountain
+Franklin,NC,Macon,McDonald's,35.18693,-83.37137,,McDonald's,mountain
+Fuquay Varina,,,Bojangles' Famous Chicken 'n Biscuits,35.592242999999996,-78.77333,,Bojangles,central
+Garner,NC,Wake,McDonalds,35.69258,-78.58276,,McDonald's,central
+Garner,NC,Wake,Taco Bell,35.605504788000005,-78.56776807,,Taco Bell,central
+Garner,NC,Wake,McDonald's,35.61036,-78.55764,,McDonald's,central
+Gastonia,NC,Gaston,McDonald's,35.25931,-81.21692,,McDonald's,central
+Gastonia,NC,Gaston,Pizza Hut,35.251371,-81.1898856,3.0,Pizza Hut,central
+Gastonia,NC,Gaston,Taco Bell,35.2884579,-81.1885669,2.5,Taco Bell,central
+Gastonia,NC,Gaston,Bojangles',35.2538194,-81.1759126,2.5,Bojangles,central
+Gastonia,NC,Gaston,McDonald's,35.2332157624,-81.1703743739,2.5,McDonald's,central
+Gastonia,NC,Gaston,Burger King,35.2333569,-81.1694742,1.5,Burger King,central
+Gastonia,NC,Gaston,Taco Bell,35.23256,-81.169418,2.0,Taco Bell,central
+Gastonia,NC,Gaston,Wendy's,35.2324011,-81.1692158,1.5,Wendy's,central
+Gastonia,NC,Gaston,Taco Bell,35.233111,-81.168816,,Taco Bell,central
+Gastonia,NC,Gaston,Wendy's,35.2627229,-81.1569273,1.5,Wendy's,central
+Gastonia,NC,Gaston,Taco Bell,35.26218,-81.156604,1.5,Taco Bell,central
+Gastonia,NC,Gaston,McDonald's,35.262766,-81.153491,2.5,McDonald's,central
+Gastonia,NC,Gaston,Wendy's,35.2626428627,-81.1530299485,2.0,Wendy's,central
+Gastonia,NC,Gaston,Bojangles' Famous Chicken 'n Biscuits,35.2710021,-81.14979,2.5,Bojangles,central
+Gastonia,NC,Gaston,Pizza Hut,35.2792337,-81.1404833,2.0,Pizza Hut,central
+Gastonia,NC,Gaston,McDonald's,35.226728,-81.1336768,3.0,McDonald's,central
+Gastonia,NC,Gaston,McDonald's,35.259590498,-81.1251977831,1.5,McDonald's,central
+Gastonia,NC,Gaston,Pizza Hut,35.2396069,-81.1232275,1.0,Pizza Hut,central
+Gastonia,NC,Gaston,Subway,35.2396069,-81.1232275,2.5,Subway,central
+Gastonia,NC,Gaston,Chick-fil-A,35.258838,-81.120197,1.5,Chick-fil-A,central
+Gastonia,NC,Gaston,Bojangle's,35.2229191,-81.1026909,2.5,Bojangles,central
+Gastonia,NC,Gaston,Subway,35.22056,-81.0961038,1.5,Subway,central
+Goldsboro,NC,Wayne,Mcdonald's,35.404387895,-78.023114555,,McDonald's,central
+Goldsboro,NC,Wayne,Chick-fil-A,35.380475,-77.932916,,Chick-fil-A,central
+Greensboro,NC,Guilford,Bojangles' Famous Chicken 'n Biscuits,36.10237896,-79.962239286,,Bojangles,central
+Greensboro,NC,Guilford,Bojangles' Famous Chicken 'n Biscuits,36.073073,-79.959841,,Bojangles,central
+Greenville,NC,Pitt,McDonald's,35.6085,-77.3953,,McDonald's,coastal
+Greenville,NC,Pitt,McDonald's,35.5748,-77.38778,,McDonald's,coastal
+Greenville,NC,Pitt,Burger King,35.5685,-77.3519,,Burger King,coastal
+Greenville,NC,Pitt,McDonald's,35.5818,-77.3082,,McDonald's,coastal
+Harrisburg,NC,Cabarrus,Pizza Hut,35.3199107,-80.6687195,3.5,Pizza Hut,central
+Harrisburg,NC,Cabarrus,Bojangles,35.3217744,-80.6565787,2.5,Bojangles,central
+Harrisburg,NC,Cabarrus,Taco Bell,35.32223,-80.64847,3.0,Taco Bell,central
+Harrisburg,NC,Cabarrus,Subway,35.323857,-80.6477947,5.0,Subway,central
+Harrisburg,NC,Cabarrus,McDonald's,35.3229451964,-80.6459201127,2.0,McDonald's,central
+Havelock,NC,Craven,Wendy's,34.889649152,-76.92196700000001,,Wendy's,coastal
+Henderson,NC,Vance,Wendy's,36.3325,-78.4347,,Wendy's,central
+Henderson,NC,Vance,McDonald's,36.31855,-78.38201,,McDonald's,central
+Hendersonville,NC,Henderson,Burger King,35.333508,-82.448418,,Burger King,mountain
+Hickory,NC,Catawba,McDonald's,35.716,-81.3368,,McDonald's,central
+Hickory,NC,Catawba,McDonald's,35.75332,-81.28572,,McDonald's,central
+Hickory,NC,Catawba,Taco Bell,35.753440000000005,-81.28499000000001,,Taco Bell,central
+High Point,NC,Guilford,McDonald's,36.00568,-80.03833,,McDonald's,central
+High Point,NC,Guilford,Wendy's,35.98198,-80.02219000000001,,Wendy's,central
+High Point,NC,Guilford,Bojangles' Famous Chicken 'n Biscuits,35.926111,-79.98410799999999,,Bojangles,central
+High Point,NC,Guilford,Wendy's,35.90224586,-79.951976,,Wendy's,central
+High Point,NC,Guilford,Bojangles' Famous Chicken 'n Biscuits,35.901889000000004,-79.948915,,Bojangles,central
+Hillsborough,NC,Orange,McDonald's,36.05675,-79.08362,,McDonald's,central
+Huntersville,NC,Mecklenburg,Subway,35.443879,-80.8724469,1.5,Subway,central
+Huntersville,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.4430637,-80.8720679,3.5,Bojangles,central
+Huntersville,NC,Mecklenburg,Chick-fil-A,35.444966,-80.866655,3.5,Chick-fil-A,central
+Huntersville,NC,Mecklenburg,McDonald's,35.4443606305,-80.866557,1.5,McDonald's,central
+Huntersville,NC,Mecklenburg,Burger King,35.4428,-80.8663,,Burger King,central
+Huntersville,NC,Mecklenburg,Burger King,35.4427936,-80.8662748,1.5,Burger King,central
+Huntersville,NC,Mecklenburg,McDonald's,35.40648,-80.865495,2.0,McDonald's,central
+Huntersville,NC,Mecklenburg,Pizza Hut,35.407082,-80.864037,2.5,Pizza Hut,central
+Huntersville,NC,Mecklenburg,Subway,35.4430913,-80.8601354,4.0,Subway,central
+Huntersville,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.4124253619,-80.8563901995,3.0,Bojangles,central
+Huntersville,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.412532,-80.856311,,Bojangles,central
+Huntersville,NC,Mecklenburg,Wendy's,35.4090152,-80.8553793,3.0,Wendy's,central
+Huntersville,NC,Mecklenburg,Taco Bell,35.411622,-80.85526,2.5,Taco Bell,central
+Huntersville,NC,Mecklenburg,Subway,35.4112946,-80.8535251,3.0,Subway,central
+Huntersville,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.3709932,-80.8313345,2.0,Bojangles,central
+Huntersville,NC,Mecklenburg,McDonald's,35.3704701,-80.8311615,2.0,McDonald's,central
+Huntersville,NC,Mecklenburg,McDonald's,35.3708580775,-80.8309432492,3.5,McDonald's,central
+Huntersville,NC,Mecklenburg,Subway,35.3717893,-80.8272777,2.5,Subway,central
+Indian Trail,NC,Union,Taco Bell,35.08382,-80.66064,2.5,Taco Bell,central
+Indian Trail,NC,Union,Wendy's,35.0824321,-80.6598512,4.5,Wendy's,central
+Indian Trail,NC,Union,Chick-fil-A,35.083821,-80.659603,4.0,Chick-fil-A,central
+Indian Trail,NC,Union,Bojangles' Famous Chicken 'n Biscuits,35.081969,-80.65952,2.0,Bojangles,central
+Indian Trail,NC,Union,McDonald's,35.0768908,-80.6518543,2.5,McDonald's,central
+Indian Trail,NC,Union,McDonald's,35.049170000000004,-80.64826,,McDonald's,central
+Indian Trail,NC,Union,Bojangles' Chicken And Biscuits,35.0489841,-80.6482181,1.5,Bojangles,central
+Indian Trail,NC,Union,McDonald's,35.0492660251,-80.6475857645,1.0,McDonald's,central
+Indian Trail,NC,Union,Pizza Hut,35.0473602,-80.6465218,3.5,Pizza Hut,central
+Jacksonville,NC,Onslow,McDonald's,34.76063,-77.4143,,McDonald's,coastal
+Jacksonville,NC,Onslow,Burger King,34.74447,-77.37977,,Burger King,coastal
+Kannapolis,NC,Cabarrus,Pizza Hut,35.4367769658,-80.6797029963,2.0,Pizza Hut,central
+Kannapolis,NC,Cabarrus,McDonald's,35.420302,-80.675624,2.0,McDonald's,central
+Kannapolis,NC,Cabarrus,Pizza Hut,35.4961609,-80.6283339,4.0,Pizza Hut,central
+Kannapolis,NC,Cabarrus,Taco Bell,35.479334,-80.612143,2.5,Taco Bell,central
+Kannapolis,NC,Cabarrus,Wendy's,35.4796233,-80.612072,1.5,Wendy's,central
+Kannapolis,NC,Cabarrus,Wendy's,35.479738,-80.612037,,Wendy's,central
+Kannapolis,NC,Cabarrus,McDonald's,35.4906493238,-80.6115576625,1.5,McDonald's,central
+Kannapolis,NC,Cabarrus,Bojangles,35.4771829,-80.610966,3.0,Bojangles,central
+Kannapolis,NC,Cabarrus,Taco Bell,35.465104,-80.590293,,Taco Bell,central
+Kernersville,NC,Forsyth,Bojangles' Famous Chicken 'n Biscuits,36.072526075999995,-80.11123576899999,,Bojangles,central
+Kernersville,NC,Forsyth,Wendy's,36.0277,-80.058,,Wendy's,central
+Kinston,NC,Lenoir,Wendy's,35.28585,-77.58932,,Wendy's,coastal
+Kitty Hawk,NC,Dare,McDonald's,36.09857,-75.71965,,McDonald's,central
+Laurinburg,NC,Scotland,Taco Bell,34.760626,-79.487148,,Taco Bell,central
+Laurinburg,NC,Scotland,Wendy's,34.754263,-79.477012,,Wendy's,central
+Laurinburg,NC,Scotland,Burger King,34.758959999999995,-79.47058,,Burger King,central
+Laurinburg,NC,Scotland,McDonalds,34.7605,-79.46914,,McDonald's,central
+Leland,NC,Brunswick,McDonald's,34.21188,-78.02454,,McDonald's,coastal
+Leland,NC,Brunswick,McDonald's,34.234477000000005,-78.000649,,McDonald's,coastal
+Leland,NC,Brunswick,Subway,34.234442,-78.000568,,Subway,coastal
+Leland,NC,Brunswick,Bojangles' Famous Chicken 'n Biscuits,34.233062,-77.996404,,Bojangles,coastal
+Leland,NC,Brunswick,Taco Bell,34.23389,-77.99544,,Taco Bell,coastal
+Lenoir,NC,Caldwell,McDonald's,35.91401,-81.527586,,McDonald's,mountain
+Lenoir,NC,Caldwell,Wendy's,35.9153,-81.5242,,Wendy's,mountain
+Lexington,NC,Davidson,McDonalds,35.78394,-80.26021,,McDonald's,central
+Lexington,NC,Davidson,Wendy's,35.7791,-80.2598,,Wendy's,central
+Lexington,NC,Davidson,McDonald's,35.77711,-80.25885,,McDonald's,central
+Lexington,NC,Davidson,McDonalds,35.83683,-80.25362,,McDonald's,central
+Lexington,NC,Davidson,Bojangles' Famous Chicken 'n Biscuits,35.9123,-80.2536,,Bojangles,central
+Lillington,NC,Harnett,McDonalds,35.41864,-78.80364,,McDonald's,central
+Locust,NC,Stanly,McDonald's,35.2548440324,-80.4584299269,2.0,McDonald's,central
+Locust,NC,Stanly,Bojangles' Famous Chicken 'n Biscuits,35.254967,-80.451759,,Bojangles,central
+Locust,NC,Stanly,Bojangles,35.2549529,-80.4517366,3.0,Bojangles,central
+Locust,NC,Stanly,Taco Bell,35.2549,-80.45043,1.5,Taco Bell,central
+Louisburg,NC,Franklin,Bojangles' Famous Chicken 'n Biscuits,36.084666999999996,-78.30683499999999,,Bojangles,central
+Lowell,NC,Gaston,Subway,35.264095,-81.0912548,3.0,Subway,central
+Marion,NC,McDowell,McDonald's,35.704,-82.0378,,McDonald's,central
+Marion,NC,McDowell,McDonald's,35.6763,-82.0137,,McDonald's,central
+Matthews,NC,Mecklenburg,Subway,35.0234912,-80.760752,2.0,Subway,central
+Matthews,NC,Mecklenburg,Subway,35.0820111,-80.732422,1.0,Subway,central
+Matthews,NC,Mecklenburg,Subway,35.1168162,-80.7193473,3.0,Subway,central
+Matthews,NC,Mecklenburg,McDonald's,35.136321,-80.713748,2.5,McDonald's,central
+Matthews,NC,Mecklenburg,McDonald's,35.1363,-80.7137,,McDonald's,central
+Matthews,NC,Mecklenburg,Subway,35.1355461,-80.7128656,1.5,Subway,central
+Matthews,NC,Mecklenburg,Chick-fil-A,35.132346,-80.712099,3.5,Chick-fil-A,central
+Matthews,NC,Mecklenburg,Burger King Restaurant,35.1270496,-80.7020615,2.0,Burger King,central
+Matthews,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.1198054,-80.6979419,2.5,Bojangles,central
+Matthews,NC,Mecklenburg,Wendy's,35.1194771,-80.697552,2.5,Wendy's,central
+Matthews,NC,Mecklenburg,Burger King,35.0854821,-80.6970021,1.5,Burger King,central
+Matthews,NC,Mecklenburg,Pizza Hut,35.1178263,-80.6960262,3.0,Pizza Hut,central
+Matthews,NC,Mecklenburg,McDonald's,35.08566,-80.69601999999999,,McDonald's,central
+Matthews,NC,Mecklenburg,Chick-fil-A,35.000414,-80.695072,3.5,Chick-fil-A,central
+Matthews,NC,Mecklenburg,Subway,35.1377963,-80.6836302,3.0,Subway,central
+Matthews,NC,Mecklenburg,Subway,35.1415282,-80.6251282,3.0,Subway,central
+Matthews,NC,Mecklenburg,McDonald's,35.1418,-80.6237,,McDonald's,central
+Matthews,NC,Mecklenburg,McDonald's,35.1417921019,-80.6236691773,2.5,McDonald's,central
+Midway Park,NC,Onslow,Taco Bell,34.732051,-77.350008,,Taco Bell,coastal
+Mills River,NC,Henderson,Bojangles' Famous Chicken 'n Biscuits,35.40157,-82.56992,,Bojangles,mountain
+Mint Hill,NC,Mecklenburg,Taco Bell,35.18742,-80.691017,1.5,Taco Bell,central
+Mint Hill,NC,Mecklenburg,Bojangles' Famous Chicken 'n Biscuits,35.1885393,-80.6906631,2.5,Bojangles,central
+Mint Hill,NC,Mecklenburg,McDonald's,35.1868927298,-80.689753443,2.0,McDonald's,central
+Mint Hill,NC,Mecklenburg,Pizza Hut,35.1875233,-80.6874494,1.5,Pizza Hut,central
+Mint Hill,NC,Mecklenburg,Wendy's,35.1723448,-80.6592503,1.5,Wendy's,central
+Mint Hill,NC,Mecklenburg,Burger King,35.17282,-80.65732,2.0,Burger King,central
+Mint Hill,NC,Mecklenburg,Subway,35.1759042827,-80.6538534164,3.0,Subway,central
+Monroe,NC,Union,Chick-fil-A,35.016181,-80.571287,4.5,Chick-fil-A,central
+Monroe,NC,Union,Taco Bell,35.010626,-80.564557,2.0,Taco Bell,central
+Monroe,NC,Union,Subway,35.0060493,-80.562575,4.0,Subway,central
+Monroe,NC,Union,Bojangles,35.008003,-80.560377,2.0,Bojangles,central
+Monroe,NC,Union,Pizza Hut,35.0054658,-80.5583195,3.5,Pizza Hut,central
+Monroe,NC,Union,Taco Bell,35.006164,-80.557738,,Taco Bell,central
+Monroe,NC,Union,Burger King,35.0055211831,-80.5569452047,4.5,Burger King,central
+Monroe,NC,Union,Taco Bell,34.985785,-80.52960300000001,,Taco Bell,central
+Mooresville,NC,Iredell,Subway,35.582983,-80.874128,,Subway,central
+Mooresville,NC,Iredell,Pizza Hut,35.5352195,-80.7995161,3.0,Pizza Hut,central
+Morehead City,NC,Carteret,Taco Bell,34.726019,-76.76643100000001,,Taco Bell,coastal
+Morganton,NC,Burke,Taco Bell,35.735636,-81.726125,,Taco Bell,mountain
+Morganton,NC,Burke,Bojangles' Famous Chicken 'n Biscuits,35.718113,-81.695083,,Bojangles,mountain
+Morrisville,NC,Wake,Taco Bell,35.85625,-78.8248,,Taco Bell,central
+Mount Airy,NC,Surry,Taco Bell,36.47578,-80.61961,,Taco Bell,central
+Mount Airy,NC,Surry,Burger King,36.4786,-80.61704,,Burger King,central
+Mount Airy,NC,Surry,Bojangles' Famous Chicken 'n Biscuits,36.48605,-80.61622,,Bojangles,central
+Mount Airy,NC,Surry,Wendy's,36.481889,-80.614612,,Wendy's,central
+Mount Airy,NC,Surry,McDonald's,36.48386,-80.61388000000001,,McDonald's,central
+Mount Airy,NC,Surry,McDonald's,36.5041,-80.6066,,McDonald's,central
+Mount Holly,NC,Gaston,Subway,35.2881982,-81.0170307,2.5,Subway,central
+Mount Olive,NC,Wayne,Wendy's,35.2099,-78.0813,,Wendy's,central
+Mt Holly,,,McDonald's,35.288874,-81.020368,1.5,McDonald's,central
+Murphy,NC,Cherokee,McDonald's,35.080653974,-84.03581164100001,,McDonald's,mountain
+New Bern,NC,Craven,Chick-fil-A,35.103709,-77.08532199999999,,Chick-fil-A,coastal
+North Wilkesboro,NC,Wilkes,Taco Bell,36.17908,-81.146102,,Taco Bell,mountain
+North Wilkesboro,NC,Wilkes,Wendy's,36.165620000000004,-81.13658000000001,,Wendy's,mountain
+Oak Ridge,NC,Guilford,Wendy's,36.173276,-79.990748,,Wendy's,central
+Oxford,NC,Granville,Taco Bell,36.2984,-78.5848,,Taco Bell,central
+Oxford,NC,Granville,Taco Bell,36.298495893,-78.58479517399999,,Taco Bell,central
+Oxford,NC,Granville,Burger King,36.2982,-78.5816,,Burger King,central
+Pineville,NC,Mecklenburg,Subway,35.0908687,-80.8862123,2.0,Subway,central
+Pineville,NC,Mecklenburg,Burger King,35.08485,-80.8855331,1.5,Burger King,central
+Pineville,NC,Mecklenburg,Taco Bell,35.085516,-80.879508,,Taco Bell,central
+Pineville,NC,Mecklenburg,Taco Bell,35.084106,-80.878954,3.5,Taco Bell,central
+Pineville,NC,Mecklenburg,Subway,35.0884119,-80.878898,2.5,Subway,central
+Pineville,NC,Mecklenburg,Burger King,35.0934565,-80.8773851,2.0,Burger King,central
+Pineville,NC,Mecklenburg,Chick-fil-A,35.082333,-80.877212,3.0,Chick-fil-A,central
+Pisgah Forest,NC,Transylvania,Taco Bell,35.2759,-82.7022,,Taco Bell,mountain
+Pittsboro,NC,Chatham,McDonald's,35.74439,-79.167,,McDonald's,central
+Pittsboro,NC,Chatham,Taco Bell,35.74577,-79.1667,,Taco Bell,central
+Plymouth,NC,Washington,Wendy's,35.83487,-76.7649,,Wendy's,coastal
+Plymouth,NC,Washington,Bojangles' Famous Chicken 'n Biscuits,35.861670000000004,-76.73534000000001,,Bojangles,coastal
+Plymouth,NC,Washington,Burger King,35.86222,-76.73268,,Burger King,coastal
+Raleigh,NC,Wake,McDonald's,35.909279999999995,-78.727544,,McDonald's,central
+Raleigh,NC,Wake,Burger King,35.8626,-78.7121,,Burger King,central
+Raleigh,NC,Wake,Wendy's,35.8993,-78.6813,,Wendy's,central
+Raleigh,NC,Wake,McDonald's,35.8191,-78.6248,,McDonald's,central
+Raleigh,NC,Wake,Wendy's,35.875349614,-78.540333482,,Wendy's,central
+Ramseur,NC,Randolph,Burger King,35.739129999999996,-79.64961,,Burger King,central
+Randleman,NC,Randolph,Wendy's,35.8219,-79.8244,,Wendy's,central
+Randleman,NC,Randolph,Taco Bell,35.822361,-79.823223,,Taco Bell,central
+Randleman,NC,Randolph,Bojangles' Famous Chicken 'n Biscuits,35.821937,-79.823173,,Bojangles,central
+Red Springs,NC,Robeson,McDonald's,34.81114,-79.17371,,McDonald's,central
+Reidsville,NC,Rockingham,Wendy's,36.3385,-79.6938,,Wendy's,central
+Reidsville,NC,Rockingham,Bojangles' Famous Chicken 'n Biscuits,36.34961,-79.69353000000001,,Bojangles,central
+Reidsville,NC,Rockingham,Bojangles' Famous Chicken 'n Biscuits,36.349576,-79.69345799999999,,Bojangles,central
+Reidsville,NC,Rockingham,Taco Bell,36.347821,-79.692926,,Taco Bell,central
+Reidsville,NC,Rockingham,McDonald's,36.352959999999996,-79.66401,,McDonald's,central
+Richfield,NC,Stanly,Taco Bell,35.47274,-80.2687,,Taco Bell,central
+Roanoke Rapids,NC,Halifax,Burger King,36.4347,-77.63802,,Burger King,central
+Roanoke Rapids,NC,Halifax,Wendy's,36.433883,-77.637117,,Wendy's,central
+Roanoke Rapids,NC,Halifax,McDonald's,36.43289,-77.63654,,McDonald's,central
+Roanoke Rapids,NC,Halifax,Taco Bell,36.432534000000004,-77.634273,,Taco Bell,central
+Roanoke Rapids,NC,Halifax,Mcdonald's,36.427636224000004,-77.63398647300001,,McDonald's,central
+Roanoke Rapids,NC,Halifax,Chick-Fil-A,36.42488,-77.63228000000001,,Chick-fil-A,central
+Rockingham,NC,Richmond,McDonald's,34.9208,-79.7492,,McDonald's,central
+Rocky Mount,NC,Nash,McDonald's,35.94444,-77.77574,,McDonald's,central
+Rocky Mount,NC,Nash,McDonald's,35.9442,-77.7753,,McDonald's,central
+Rocky Mount,NC,Nash,Bojangles' Famous Chicken 'n Biscuits,35.946391999999996,-77.76416,,Bojangles,central
+Saint Pauls,NC,Robeson,Burger King,34.80965,-78.98403,,Burger King,central
+Salisbury,NC,Rowan,Bojangles' Famous Chicken 'n Biscuits,35.613199,-80.520824,,Bojangles,central
+Salisbury,NC,Rowan,Bojangles' Famous Chicken 'n Biscuits,35.691988,-80.51269599999999,,Bojangles,central
+Salisbury,NC,Rowan,McDonald's,35.6628,-80.5006,,McDonald's,central
+Salisbury,NC,Rowan,Wendy's,35.644,-80.4846,,Wendy's,central
+Salisbury,NC,Rowan,Bojangles' Famous Chicken 'n Biscuits,35.6595,-80.462,,Bojangles,central
+Shelby,NC,Cleveland,Bojangles' Famous Chicken 'n Biscuits,35.2826,-81.556,,Bojangles,central
+Shelby,NC,Cleveland,Bojangles' Famous Chicken 'n Biscuits,35.28257,-81.55593,,Bojangles,central
+Shelby,NC,Cleveland,McDonald's,35.2684,-81.4853,,McDonald's,central
+Shelby,NC,Cleveland,Chick-Fil-A,35.26783,-81.48491,,Chick-fil-A,central
+Siler City,NC,Chatham,Bojangles' Famous Chicken 'n Biscuits,35.733422,-79.43472,,Bojangles,central
+Southport,NC,Brunswick,Bojangles' Famous Chicken 'n Biscuits,33.9516,-78.0426,,Bojangles,coastal
+Spencer,NC,Rowan,Bojangles' Famous Chicken 'n Biscuits,35.693279,-80.425686,,Bojangles,central
+Spring Lake,NC,Cumberland,Subway,35.175404,-78.96876,,Subway,central
+Spruce Pine,NC,Mitchell,Taco Bell,35.8873,-82.0646,,Taco Bell,mountain
+Stallings,NC,Union,McDonald's,35.085671851,-80.6960491743,1.5,McDonald's,central
+Stanley,NC,Gaston,Wendy's,35.355244,-81.091854,2.0,Wendy's,central
+Stanley,NC,Gaston,Burger King,35.3535784,-81.089862,2.5,Burger King,central
+Stanley,NC,Gaston,Pizza Hut,35.3535486,-81.0889023,2.0,Pizza Hut,central
+Stanley,NC,Gaston,Bojangles,35.351668,-81.08841,2.0,Bojangles,central
+Statesville,NC,Iredell,McDonald's,35.7961,-80.9389,,McDonald's,central
+Swansboro,NC,Onslow,McDonalds,34.69765,-77.14086,,McDonald's,coastal
+Swansboro,NC,Onslow,Wendy's,34.69702,-77.13973,,Wendy's,coastal
+Swansboro,NC,Onslow,McDonald's,34.68926,-77.0681,,McDonald's,coastal
+Sylva,NC,Jackson,Bojangles' Famous Chicken 'n Biscuits,35.362077,-83.202253,,Bojangles,mountain
+Taylorsville,NC,Alexander,McDonald's,35.92153,-81.18525,,McDonald's,central
+Wadesboro,NC,Anson,Wendy's,34.9677,-80.07376,,Wendy's,central
+Walkertown,NC,Forsyth,Wendy's,36.1637,-80.1386,,Wendy's,central
+Walnut Cove,NC,Stokes,Bojangles' Famous Chicken 'n Biscuits,36.312657,-80.14007600000001,,Bojangles,central
+Waxhaw,NC,Union,McDonald's,34.956814,-80.756978,1.5,McDonald's,central
+Waxhaw,NC,Union,Taco Bell,34.9555896347,-80.7559300158,3.0,Taco Bell,central
+Waxhaw,NC,Union,Subway,34.9386813,-80.7508015,4.5,Subway,central
+Waxhaw,NC,Union,Bojangles' Famous Chicken 'n Biscuits,34.934893,-80.749975,2.0,Bojangles,central
+Waxhaw,NC,Union,Burger King,34.93508,-80.7489398,2.5,Burger King,central
+Waxhaw,NC,Union,Pizza Hut,34.9245482185,-80.7449110597,2.5,Pizza Hut,central
+Waynesville,NC,Haywood,Taco Bell,35.46595,-83.00695,,Taco Bell,mountain
+Waynesville,NC,Haywood,Chick-fil-A,35.503586,-82.98945,,Chick-fil-A,mountain
+Waynesville,NC,Haywood,Bojangles' Famous Chicken 'n Biscuits,35.524332,-82.984872,,Bojangles,mountain
+Wesley Chapel,NC,Union,McDonald's,35.00152,-80.7005413,1.5,McDonald's,central
+Whitsett,NC,Guilford,Bojangles' Famous Chicken 'n Biscuits,36.0634,-79.6076,,Bojangles,central
+Williamston,NC,Martin,McDonald's,35.660152000000004,-77.04835,,McDonald's,coastal
+Wilmington,NC,New Hanover,Burger King,34.224709999999995,-77.94414,,Burger King,coastal
+Wilmington,NC,New Hanover,Bojangles' Famous Chicken 'n Biscuits,34.243497999999995,-77.88874799999999,,Bojangles,coastal
+Wilmington,NC,New Hanover,Burger King,34.220909999999996,-77.88306,,Burger King,coastal
+Wilmington,NC,New Hanover,Chick-Fil-A,34.22461,-77.86808,,Chick-fil-A,coastal
+Wilmington,NC,New Hanover,Burger King,34.264065,-77.852936,,Burger King,coastal
+Wilson,NC,Wilson,McDonald's,35.7532,-77.9303,,McDonald's,central
+Wilson,NC,Wilson,Mcdonald's,35.742939752,-77.92388443,,McDonald's,central
+Wilson,NC,Wilson,McDonald's,35.723494,-77.894081,,McDonald's,central
+Wingate,NC,Union,Mcdonald's,34.982947829000004,-80.448555621,,McDonald's,central
+Winston Salem,,,McDonalds,36.12142,-80.36848,,McDonald's,central
+Winston Salem,,,Wendy's,36.071,-80.3401,,Wendy's,central
+Winston Salem,,,Taco Bell,36.156151,-80.31644200000001,,Taco Bell,central
+Winston Salem,,,McDonald's,36.065129999999996,-80.30183000000001,,McDonald's,central
+Winston Salem,,,McDonald's,36.15126,-80.28328,,McDonald's,central
+Winston Salem,,,Taco Bell,36.151544,-80.27971600000001,,Taco Bell,central
+Winston Salem,,,Chick-fil-A,36.189823,-80.27405999999999,,Chick-fil-A,central
+Winston Salem,,,McDonald's,35.9946,-80.268,,McDonald's,central
+Yadkinville,NC,Yadkin,Mcdonalds,36.1207,-80.6616,,McDonald's,central
+Yadkinville,NC,Yadkin,Taco Bell,36.123313,-80.660009,,Taco Bell,central
+Zebulon,NC,Wake,Taco Bell,35.83341,-78.31473000000001,,Taco Bell,central

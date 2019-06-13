@@ -1,4 +1,4 @@
-var margin = {top: 20, right: 20, bottom: 35, left: 30},
+var margin = {top: 20, right: 10, bottom: 35, left: 30},
    width = 900 - margin.left - margin.right,
    height = 432 - margin.top - margin.bottom;
 
@@ -35,7 +35,23 @@ d3.csv("area_wide2_data.csv", function(data) {
  // color palette
  var color = d3.scaleOrdinal()
    .domain(keys)
-   .range(['#e41a1c','#377eb8','#4daf4a','#984ea3','#ff7f00','#ffff33','#a65628','#f781bf'])
+   .range(['#FFD51E','#0066B3','#E51636','#D52B1E','#FEA91B','#005542','#343D98','#FCDDDB'])
+
+  // Handmade legend
+  var legendRectSize = 18;
+  var legendSpacing = 4;
+  var legend = svg.selectAll('.legend')
+  .data(color.domain())
+  .enter()
+  .append('g')
+  .attr('class', 'legend')
+  .attr('transform', function(d, i) {
+    var height = legendRectSize + legendSpacing;
+    var offset =  height * color.domain().length / 2;
+    var horz = -2 * legendRectSize;
+    var vert = i * height - offset;
+    return 'translate(' + horz + ',' + vert + ')';
+  });
 
  //stack the data?
  var stackedData = d3.stack()
@@ -53,6 +69,6 @@ d3.csv("area_wide2_data.csv", function(data) {
       .x(function(d) {return x(d.data.region); })
       .y0(function(d) {return y(d[0]);  })
       .y1(function(d) { return y(d[1]); })
-  )
+    )
 
 })

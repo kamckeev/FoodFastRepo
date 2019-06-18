@@ -44,6 +44,7 @@ d3.csv("area_wide2_data.csv", function(data) {
    .domain(keys)
    .range(['#FFD51E','#0066B3','#E51636','#D52B1E','#FEA91B','#005542','#343D98','#FCDDDB'])
 
+   // Legend is a work in progresssssss. JavaScript isn't my friend
   // Handmade legend
   var legendRectSize = 18;
   var legendSpacing = 4;

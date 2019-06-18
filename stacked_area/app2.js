@@ -21,9 +21,16 @@ d3.csv("area_wide2_data.csv", function(data) {
  var x = d3.scaleLinear()
    .domain(d3.extent(data, function(d) { return d.region; }))
    .range([ 0, width ]);
+
+ // test x_axis
+ svg.pointsNames = ["Mountains", "Central", "Coastal"]
+ d3.svg.axis()
+       .scale(x).tickLabels(svg.pointsNames);
+   
  svg.append("g")
    .attr("transform", "translate(0," + height + ")")
    .call(d3.axisBottom(x).ticks(2));
+   
 
  // Add Y axis
  var y = d3.scaleLinear()

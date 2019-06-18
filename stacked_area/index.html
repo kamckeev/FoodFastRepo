@@ -10,64 +10,58 @@
 </head>
 <body style= 'background-color:rgb(100, 204, 201)'>
     <div class="jumbotron jumbotron-fluid text-center" style="margin:-50px; background-color: rgb(100, 204, 201)">
-      <h1 style="font-size: 300%" style= "font-weight: bold" style="font-family: 'calibri', 'Garamond', 'Comic Sans MS'"> Fast
-        <i class='fas fa-drumstick-bite' style='font-size:60px; color:rgb(163, 8, 12)'></i>Food
-        <i class='fas fa-pepper-hot' style='font-size:60px; color:rgb(237, 27, 45)'></i> Popularity
-        <i class='fas fa-hamburger' style='font-size:60px; color:rgb(255, 187, 54)'></i> Around
-        <i class='fas fa-pizza-slice' style='font-size:60px; color:rgb(223, 30, 57)'></i> NC
-       </h1>
+      <h1 style="font-size: 300%" style= "font-weight: bold" style="font-family: 'calibri', 'Garamond', 'Comic Sans MS'"> 
+        Fast Food Popularity Across NC
+      </h1>
           <!-- <p>Fast food Resturant Popularity by Region</p>    -->
     </div>
     <div class= "container" >
         <div class ="row">
-            <div class="col-12">
+            <div class="col-10">
                 <div class= "box bg-lighten-2">
                     <div style="font-style:italic">
-                      <hr>
+                      <div class="image-container">
+                        <div id="my_dataviz">
+                        </div>
+                      </div>
                     </div>
                 </div>
             </div>
-            <div class="image-container">
-            <div id="my_dataviz">
-              <!-- <div class="after">
-                <img src="nc_stamp.png" /> -->
-                <!-- <img src="8-ncmap-mountains-coastal-piedmont_sm.jpg"/> -->
-              <!-- </div> -->
-              <g class="legend" transform="translate(-36,-44)">
-                <rect width="18" height="18" style="fill: rgb(57, 59, 121); stroke: rgb(57, 59, 121);"></rect>
-                <text x="22" y="14">Bojangles</text>
-              </g>
-              <g class="legend" transform="translate(-36,-22)">
-                <rect width="18" height="18" style="fill: rgb(82, 84, 163); stroke: rgb(82, 84, 163);"></rect>
-                <text x="22" y="14">BurgerKing</text>
-              </g>
-              <g class="legend" transform="translate(-36,0)">
-                <rect width="18" height="18" style="fill: rgb(107, 110, 207); stroke: rgb(107, 110, 207);"></rect>
-                <text x="22" y="14">Chick-fil-A</text>
-              </g>
-              <g class="legend" transform="translate(-36,22)">
-                <rect width="18" height="18" style="fill: rgb(156, 158, 222); stroke: rgb(156, 158, 222);"></rect>
-                <text x="22" y="14">McDonalds</text>
-              </g>  
-              <g class="legend" transform="translate(-36,-22)">
-                <rect width="18" height="18" style="fill: rgb(82, 84, 163); stroke: rgb(82, 84, 163);"></rect>
-                <text x="22" y="14">Pizza Hut</text>
-              </g>
-              <g class="legend" transform="translate(-36,-22)">
-                <rect width="18" height="18" style="fill: rgb(82, 84, 163); stroke: rgb(82, 84, 163);"></rect>
-                <text x="22" y="14">Subway</text>
-              </g>    
-              <g class="legend" transform="translate(-36,-22)">
-                <rect width="18" height="18" style="fill: rgb(82, 84, 163); stroke: rgb(82, 84, 163);"></rect>
-                <text x="22" y="14">Taco Bell</text>
-              </g>
-              <g class="legend" transform="translate(-36,-22)">
-                <rect width="18" height="18" style="fill: rgb(82, 84, 163); stroke: rgb(82, 84, 163);"></rect>
-                <text x="22" y="14">Wendy's</text>
-              </g>
+            <div class="col-2">
+                <p></p>
+                <p></p>
+                <p class='legend' style="font-size: 20px; color:#FCDDDB">
+                    <i class='fas fa-hamburger' style="font-size: 25px; color:#FCDDDB"></i> Wendy's
+                </p>
+                <p class = 'legend' style="font-size: 20px; color:#343D98">
+                    <i class='fas fa-pepper-hot' style="font-size: 25px; color:#343D98"></i> Taco Bell
+                </p>
+                <p class='legend' style="font-size: 20px; color:#005542">
+                    <i class='fas fa-bread-slice' style="font-size: 25px; color:#005542"></i> SubWay
+                </p>
+                <p class = 'legend' style="font-size: 20px; color:#FEA91B">
+                    <i class='fas fa-pizza-slice' style="font-size: 25px; color:#FEA91B"></i> Pizza Hut
+                </p>
+                <p class='legend' style="font-size: 20px; color:#D52B1E">
+                    <i class='fas fa-hamburger' style="font-size: 25px; color:#D52B1E"></i> McDonald's
+                </p>
+                <p class = 'legend' style="font-size: 20px; color:#E51636">
+                    <i class='fas fa-drumstick-bite' style="font-size: 25px; color:#E51636"></i> Chick-fil-A
+                </p>
+                <p class='legend' style="font-size: 20px; color:#0066B3">
+                    <i class='fas fa-hamburger' style="font-size: 25px; color:#0066B3"></i> Burger King
+                </p>
+                <p class = 'legend' style="font-size: 20px; color:#FFD51E">
+                    <i class='fas fa-drumstick-bite' style="font-size: 25px; color:#FFD51E"></i> Bojangles'
+                </p>
             </div>
-            </div>
-</div>
+        </div>
+        <div class="row">
+            <div class="col">Mountains</div>
+            <div class="col">Central Region</div>
+            <div class="col">Coastal Region</div>
+        </div>
+    </div>
 <script src="app2.js"></script>
 </body>
 </html>
